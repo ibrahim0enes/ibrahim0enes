@@ -45,7 +45,7 @@ const developer = {
 
 | Project | Description |
 |---|---|
-| 🥷 **Hitman-Style Stealth AI** | Full UE5 Blueprint AI with 5 behavior states, EQS tactical positioning, AI Perception, detection widget & last-known-location prediction |
+| 🥷 **Smart AI** | Full UE5 Blueprint AI with 5 behavior states, EQS tactical positioning, AI Perception, detection widget & last-known-location prediction |
 | 🤼 **Kırkpınar: Er Meydanı** | Traditional Turkish oil-wrestling game — publicly showcased at the Edirne Kırkpınar Festival |
 | 🔀 **Dual Paradox** | Two-character switching puzzle mechanic — solo project, Yıldız GameJam 2026 |
 | 🧬 **The Subject** | Parkour + mutation system — led a 5-person team at StartGate Jam 2025 |
@@ -101,11 +101,6 @@ const developer = {
 
 <br/>
 
-## 🎯 Currently
-
-- 🔭 Working on a Hitman-style stealth AI system in UE5 and clearing **42 İstanbul C Piscine — Exam 01**
-- 🌱 Deepening C++ to bridge my Blueprint systems into performant native code
-- 🎮 Planning a Turkish-language UE5 tutorial series on YouTube
 - 📫 Reach me: **ibrahimens53@gmail.com** · [LinkedIn](https://www.linkedin.com/in/ibrahim-enes-çolak-b18327316) · [Portfolio](https://www.ibrahimenescolak.com/)
 
 <br/>
