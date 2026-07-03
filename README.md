@@ -39,18 +39,6 @@ const developer = {
 
 <br/>
 
-## 🕹️ Featured Work
-
-<div align="center">
-
-| Project | Description |
-|---|---|
-| 🥷 **Smart AI** | Full UE5 Blueprint AI with 5 behavior states, EQS tactical positioning, AI Perception, detection widget & last-known-location prediction |
-| 🤼 **Kırkpınar: Er Meydanı** | Traditional Turkish oil-wrestling game — publicly showcased at the Edirne Kırkpınar Festival |
-| 🔀 **Dual Paradox** | Two-character switching puzzle mechanic — solo project, Yıldız GameJam 2026 |
-| 🧬 **The Subject** | Parkour + mutation system — led a 5-person team at StartGate Jam 2025 |
-| 💻 **42 C Piscine** | Recursion, memory management & algorithms in C — [see repo](https://github.com/ibrahim0enes/42-c-piscine) |
-
 </div>
 
 <br/>
