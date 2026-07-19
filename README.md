@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=%C4%B0brahim%20Enes%20%C3%87olak&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UE5%20Gameplay%20%26%20AI%20Developer%20%7C%2042%20%C4%B0stanbul&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.ibrahimenescolak.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+UE5+AI+systems+that+feel+alive;42+%C4%B0stanbul+%E2%80%94+Piscine+%26+Common+Core;Solo+%26+team+game+jam+developer;Aspiring+studio+founder+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Developing+UE5+gameplay+%26+AI+systems;42+Istanbul+%E2%80%94+Piscine+%26+Common+Core;Game+jam+developer+%E2%80%94+solo+%26+team;Working+toward+founding+a+game+studio" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,24 +19,20 @@
 
 ## 👋 About Me
 
-Building toward my own game studio · **UE5 gameplay & AI systems** · Software Dev @ Istanbul Aydın University · **42 İstanbul**
+**UE5 Gameplay & AI Developer** · Software Developer @ Istanbul Aydın University · **42 Istanbul**
 
 Developing gameplay systems in Unreal Engine 5, combining C++ for core architecture with Blueprint for rapid iteration. Currently exploring Verse and evaluating how LLMs can be integrated into game development pipelines. Project management and documentation are organized through Notion.
 
 ```txt
 const developer = {
     name:        "İbrahim Enes Çolak",
-    location:    "İstanbul, Türkiye",
+    location:    "Istanbul, Türkiye",
     role:        "UE5 Gameplay & AI Developer",
-    education:   ["İstanbul Aydın University — Software Development", "42 İstanbul — Common Core"],
+    education:   ["Istanbul Aydın University — Software Development", "42 Istanbul — Common Core"],
     focus:       ["Gameplay AI", "Behavior Trees / EQS", "C / C++", "Game Systems Design"],
-    currentGoal: "Building a Gameplay & AI system + clearing the 42 C + Pyhton + C++",
+    currentGoal: "Building a gameplay & AI system while completing the 42 Common Core (C, Python, C++)",
 };
 ```
-
-<br/>
-
-</div>
 
 <br/>
 
