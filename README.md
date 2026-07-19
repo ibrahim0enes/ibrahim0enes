@@ -19,11 +19,10 @@
 
 ## 👋 About Me
 
-I'm a Software Development student at **İstanbul Aydın University** and a Common Core student at **42 İstanbul**, currently deep in the C Piscine while building toward my real long-term goal: **founding my own game studio**.
+Building toward my own game studio · **UE5 gameplay & AI systems** · Software Dev @ Istanbul Aydın University · **42 İstanbul**
 
-My main craft is **Unreal Engine 5** — gameplay systems and game AI. I build things like *Hitman*-style stealth AI with full perception, investigation and alert-state logic, tactical positioning with EQS, and combat systems, mostly in Blueprint with a growing C++ layer underneath. 42's Piscine is where I'm sharpening the low-level C fundamentals (memory, recursion, pointers) that feed straight back into engine-level thinking.
-
-I care about building games with real craftsmanship and about representing values-driven, positive storytelling to a global audience — that's the "why" behind the studio.
+Building gameplay in Unreal Engine 5 — C++ under the hood, Blueprint on top, and an ever-growing curiosity for whatever's next (currently eyeing Verse and seeing how far LLMs can be dragged into a game dev pipeline).
+Everything lives in Notion, because chaos is for the code, not the workflow.
 
 ```txt
 const developer = {
@@ -32,8 +31,7 @@ const developer = {
     role:        "UE5 Gameplay & AI Developer",
     education:   ["İstanbul Aydın University — Software Development", "42 İstanbul — Common Core"],
     focus:       ["Gameplay AI", "Behavior Trees / EQS", "C / C++", "Game Systems Design"],
-    currentGoal: "Building a portfolio-defining stealth AI system + clearing the 42 C Piscine",
-    longTermGoal:"Founding an independent game studio"
+    currentGoal: "Building a Gameplay & AI system + clearing the 42 C + Pyhton + C++",
 };
 ```
 
