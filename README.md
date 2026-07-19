@@ -21,8 +21,7 @@
 
 Building toward my own game studio · **UE5 gameplay & AI systems** · Software Dev @ Istanbul Aydın University · **42 İstanbul**
 
-Building gameplay in Unreal Engine 5 — C++ under the hood, Blueprint on top, and an ever-growing curiosity for whatever's next (currently eyeing Verse and seeing how far LLMs can be dragged into a game dev pipeline).
-Everything lives in Notion, because chaos is for the code, not the workflow.
+Developing gameplay systems in Unreal Engine 5, combining C++ for core architecture with Blueprint for rapid iteration. Currently exploring Verse and evaluating how LLMs can be integrated into game development pipelines. Project management and documentation are organized through Notion.
 
 ```txt
 const developer = {
