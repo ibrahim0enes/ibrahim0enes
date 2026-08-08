@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=%C4%B0brahim%20Enes%20%C3%87olak&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UE5%20Gameplay%20%26%20AI%20Developer%20%7C%2042%20%C4%B0stanbul&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.ibrahimenescolak.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Developing+UE5+gameplay+%26+AI+systems;42+Istanbul+%E2%80%94+Piscine+%26+Common+Core;Game+jam+developer+%E2%80%94+solo+%26+team;Working+toward+founding+a+game+studio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Developing+UE5+gameplay+%26+AI+systems;42+Istanbul+%E2%80%94+Piscine+%26+Common+Core;Game+developer+%E2%80%94+solo+%26+team;Working+toward+founding+a+game+studio" alt="Typing SVG" />
 </a>
 
 <br/>
