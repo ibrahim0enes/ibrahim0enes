@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:2b2b2b&height=180&section=header&text=%C4%B0brahim%20Enes%20%C3%87olak&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=UE5%20Gameplay%20%26%20AI%20Developer&descAlignY=58&descSize=15" width="100%"/>
+<img width="1584" height="396" alt="linkedin-banner" src="https://github.com/user-attachments/assets/32adf2d5-24ec-40aa-992c-f2986d38084c" />
+
 
 <a href="https://www.ibrahimenescolak.com/"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ibrahim-enes-çolak-b18327316"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
