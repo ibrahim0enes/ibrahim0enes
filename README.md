@@ -38,4 +38,7 @@ I'm a developer with a genuine interest in Unreal Engine, particularly in gamepl
 <br/>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,50:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
+
 </div>
