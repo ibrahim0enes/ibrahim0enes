@@ -11,29 +11,23 @@
 
 <br/>
 
----
+## About
 
-## Stack
+I'm a developer with a genuine interest in Unreal Engine, particularly in gameplay and AI. I enjoy figuring out how these systems come together to shape the way a game feels, and I'm always working to grow further in this direction. Right now that means completing 42 Istanbul's Common Core alongside a Software Development degree at Istanbul Aydın University, building toward a future in game development.
+
+<br/>
+
+<div align="center">
 
 ![UE5](https://img.shields.io/badge/Unreal%20Engine%205-1a1a1a?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=white)
-![Blueprint](https://img.shields.io/badge/Blueprint-1a1a1a?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-1a1a1a?style=for-the-badge&logo=notion&logoColor=white)
 
----
+</div>
 
-## Projects
-
-| | |
-|---|---|
-| **[ue5-cpp-mastery](https://github.com/ibrahim0enes/ue5-cpp-mastery)** | 5 UE5 C++ course projects |
-| **[42-Git-Projects](https://github.com/ibrahim0enes/42-Git-Projects)** | 42 Istanbul — C Piscine & Common Core |
-| **[neetcode-submissions](https://github.com/ibrahim0enes/neetcode-submissions)** | C++ data structures & algorithms |
-
----
+<br/>
 
 <div align="center">
 
