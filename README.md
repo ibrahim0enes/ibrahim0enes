@@ -11,20 +11,6 @@
 
 <br/>
 
-```bash
-$ whoami
-İbrahim Enes Çolak — UE5 Gameplay & AI Developer
-
-$ focus
-Gameplay Systems   Actor Components, Enhanced Input, custom mechanics
-Gameplay AI        Behavior Trees, EQS
-Low-level C/C++    42 Istanbul Common Core
-Exploring          Verse, LLM-assisted dev pipelines
-
-$ status
-42 Istanbul — Common Core   |   Software Development @ Istanbul Aydın University
-```
-
 ---
 
 ## Stack
