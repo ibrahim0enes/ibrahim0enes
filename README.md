@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=%C4%B0brahim%20Enes%20%C3%87olak&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=UE5%20Gameplay%20%26%20AI%20Developer&descAlignY=68&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=%C4%B0brahim%20Enes%20%C3%87olak&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=UE5%20Gameplay%20%26%20AI%20Developer&descAlignY=58&descSize=15" width="100%"/>
 
 <sub>
 <a href="https://www.ibrahimenescolak.com/">Portfolio</a> ·
