@@ -13,7 +13,7 @@
 
 ## About
 
-I'm a developer with a genuine interest in Unreal Engine, particularly in gameplay and AI. I enjoy figuring out how these systems come together to shape the way a game feels, and I'm always working to grow further in this direction. Right now that means completing 42 Istanbul's Common Core alongside a Software Development degree at Istanbul Aydın University, building toward a future in game development.
+I'm a developer with a genuine interest in Unreal Engine, particularly in gameplay and AI. I'm always working to grow further in this direction — currently through 42 Istanbul's Common Core alongside a Software Development degree at Istanbul Aydın University.
 
 <br/>
 
