@@ -32,8 +32,6 @@ I'm a developer with a genuine interest in Unreal Engine, particularly in gamepl
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ibrahim0enes&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=e5e5e5&icon_color=999999&text_color=b3b3b3"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim0enes&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=e5e5e5&text_color=b3b3b3"/>
 
 </div>
 
