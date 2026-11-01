@@ -18,6 +18,16 @@ I'm a developer with a genuine interest in Unreal Engine, particularly in gamepl
 
 <br/>
 
+## UE5 Projects
+
+| Project | What it is |
+|---|---|
+| [UE5-Medieval-Combat-System](https://github.com/ibrahim0enes/UE5-Medieval-Combat-System) | Player-side medieval combat in Blueprints: lock-on, fists and sword, blade trace, directional hit reactions |
+| [UE5-Boxer-Enemy-AI](https://github.com/ibrahim0enes/UE5-Boxer-Enemy-AI) | Boxer enemy that chases, punches and reacts, built without a Behavior Tree |
+| [UE5-Health-Damage-System](https://github.com/ibrahim0enes/UE5-Health-Damage-System) | Reusable health and damage component in C++ with Blueprint hooks |
+
+<br/>
+
 <div align="center">
 
 ![UE5](https://img.shields.io/badge/Unreal%20Engine%205-1a1a1a?style=for-the-badge&logo=unrealengine&logoColor=white)
