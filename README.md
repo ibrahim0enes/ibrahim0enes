@@ -25,7 +25,7 @@ I'm a developer with a genuine interest in Unreal Engine, particularly in gamepl
 <td width="50%"><a href="https://github.com/ibrahim0enes/UE5-Medieval-Combat-System"><img src="assets/card-medieval.png" alt="Medieval Combat System – lock-on, fists and sword"/></a></td>
 </tr>
 <tr>
-<td align="center"><sub>Behavior Tree enemy with five states, AI Perception and EQS cover &amp; strafe</sub></td>
+<td align="center"><sub>Stealth guards: detection meter, disguise zones, predicted search, EQS</sub></td>
 <td align="center"><sub>Lock-on, fists ⇄ sword, blade-traced hits and directional reactions</sub></td>
 </tr>
 <tr>
